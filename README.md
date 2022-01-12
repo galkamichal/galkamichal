@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @galkamichal
 - 👀 I’m interested in security
 - 🌱 I’m currently learning python
-- 📫 How to reach me on twitter.com/michalgalka
+- 📫 How to reach me on https://mgalka.me
